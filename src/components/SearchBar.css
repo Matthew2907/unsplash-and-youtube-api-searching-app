@@ -1,0 +1,8 @@
+.searchbar.ui {
+    background-color: lightcyan;
+}
+
+.searchbar__label-span {
+    display: inline-block;
+    margin-bottom: 5px;
+}
