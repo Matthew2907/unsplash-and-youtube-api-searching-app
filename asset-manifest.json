@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/unsplash-and-youtube-api-searching-app/static/css/main.81978236.chunk.css",
+    "main.js": "/unsplash-and-youtube-api-searching-app/static/js/main.fb8d2be1.chunk.js",
+    "main.js.map": "/unsplash-and-youtube-api-searching-app/static/js/main.fb8d2be1.chunk.js.map",
+    "runtime-main.js": "/unsplash-and-youtube-api-searching-app/static/js/runtime-main.e772dde1.js",
+    "runtime-main.js.map": "/unsplash-and-youtube-api-searching-app/static/js/runtime-main.e772dde1.js.map",
+    "static/js/2.845475ab.chunk.js": "/unsplash-and-youtube-api-searching-app/static/js/2.845475ab.chunk.js",
+    "static/js/2.845475ab.chunk.js.map": "/unsplash-and-youtube-api-searching-app/static/js/2.845475ab.chunk.js.map",
+    "index.html": "/unsplash-and-youtube-api-searching-app/index.html",
+    "static/css/main.81978236.chunk.css.map": "/unsplash-and-youtube-api-searching-app/static/css/main.81978236.chunk.css.map",
+    "static/js/2.845475ab.chunk.js.LICENSE.txt": "/unsplash-and-youtube-api-searching-app/static/js/2.845475ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e772dde1.js",
+    "static/js/2.845475ab.chunk.js",
+    "static/css/main.81978236.chunk.css",
+    "static/js/main.fb8d2be1.chunk.js"
+  ]
+}
