@@ -1,6 +1,7 @@
 import React from 'react';
 
 import SearchBar from './SearchBar';
+import ImageList from "./ImageList";
 import unsplash from '../api/unsplash';
 import './App.css';
 
@@ -23,7 +24,7 @@ class App extends React.Component {
         return (
             <div className="ui container app">
                 <SearchBar onSubmit={this.onSearchSubmit} />
-                Founda: {this.state.images.length}
+                <ImageList images={this.state.images} />
             </div>
         );
     }
